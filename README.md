@@ -44,8 +44,5 @@ A regular expression consists of a pattern and optional flags: g , i , m , u , s
 The \ is known as the escape code, which restore the original literal meaning of the following character. It indicates a single whitespace character.
 
 ## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
-
 Maddrick Long based out of Atlanta, Ga. 
 https://github.com/Drip101/Regular-X-paper
