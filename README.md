@@ -1,9 +1,7 @@
 # REG X
-
-Introductory paragraph (A regex, is a sequence of characters that defines a specific search pattern. )
+A regex, is a sequence of characters that defines a specific search pattern. 
 
 ## Summary
-
 Regular expressions, or regex for short, are a series of special characters that define a search pattern. Take the following example of a regular expression, which we’ll call “Matching a Username”:  /^[a-z0-9_-]{3,16}$/
 
 ## Table of Contents
