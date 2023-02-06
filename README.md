@@ -4,8 +4,6 @@ Introductory paragraph (A regex, is a sequence of characters that defines a spec
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
-
 Regular expressions, or regex for short, are a series of special characters that define a search pattern. Take the following example of a regular expression, which we’ll call “Matching a Username”:  /^[a-z0-9_-]{3,16}$/
 
 ## Table of Contents
@@ -48,3 +46,6 @@ The \ is known as the escape code, which restore the original literal meaning of
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+
+Maddrick Long based out of Atlanta, Ga. 
+https://github.com/Drip101/Regular-X-paper
