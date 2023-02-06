@@ -1,4 +1,4 @@
-# Title (REG X paper)
+# REG X
 
 Introductory paragraph (A regex, is a sequence of characters that defines a specific search pattern. )
 
